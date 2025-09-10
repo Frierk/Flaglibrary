@@ -93,6 +93,26 @@ namespace Flaglibrary.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Flag_of_China_Old {
+            get {
+                object obj = ResourceManager.GetObject("Flag_of_China_Old", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Flag_of_England {
+            get {
+                object obj = ResourceManager.GetObject("Flag_of_England", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Flag_of_Sweden {
             get {
                 object obj = ResourceManager.GetObject("Flag_of_Sweden", resourceCulture);
@@ -123,6 +143,46 @@ namespace Flaglibrary.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap Flag_of_the_United_States_Old {
+            get {
+                object obj = ResourceManager.GetObject("Flag_of_the_United_States_Old", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap George_Washington {
+            get {
+                object obj = ResourceManager.GetObject("George_Washington", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Gustav_Vasa {
+            get {
+                object obj = ResourceManager.GetObject("Gustav_Vasa", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Haggish {
+            get {
+                object obj = ResourceManager.GetObject("Haggish", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Hamburger {
             get {
                 object obj = ResourceManager.GetObject("Hamburger", resourceCulture);
@@ -143,6 +203,16 @@ namespace Flaglibrary.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap king_george_3 {
+            get {
+                object obj = ResourceManager.GetObject("king_george_3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap meatballs_1 {
             get {
                 object obj = ResourceManager.GetObject("meatballs-1", resourceCulture);
@@ -153,9 +223,59 @@ namespace Flaglibrary.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap OldSwedishFlag {
+            get {
+                object obj = ResourceManager.GetObject("OldSwedishFlag", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Peking_Duck {
             get {
                 object obj = ResourceManager.GetObject("Peking-Duck", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap pork_tamales {
+            get {
+                object obj = ResourceManager.GetObject("pork-tamales", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap QinShiHuang {
+            get {
+                object obj = ResourceManager.GetObject("QinShiHuang", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Swedenfoodpast {
+            get {
+                object obj = ResourceManager.GetObject("Swedenfoodpast", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Tea_egg {
+            get {
+                object obj = ResourceManager.GetObject("Tea egg", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
